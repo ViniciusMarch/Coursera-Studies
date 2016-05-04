@@ -19,25 +19,18 @@
 		
 	}
 
-
-
 	h1{
 		
 		margin-top: 50px;
 		text-align: center;
 		font-size: 175%;
 		color: #9090EE; 
-
-
-
 	}
 
 
 	section{
 
 			padding: 15px;
-				
-
 	}
 	
 
@@ -46,21 +39,12 @@
 		border: 1px solid black;			
 		font-style: italic;		
 		font-size: 125%;
-		
-
-
-
 	}
 
 	p{
 		border: 1px solid black;
 		padding: 30px 15px 15px 15px;	
 		background-color: #DDDDDD;
-				
-			
-
-  
-  
 	}
 
 	#header1{		
@@ -76,20 +60,16 @@
 		background-color: #CC8392;
 	}
 
-	
-
 	@media (min-width: 992px){
 		.col-lg-4{			
 			float:left;				
-			width: 33.33%;			
-			
+			width: 33.33%;				
 
 		}
 	}
 	@media (min-width: 768px) and (max-width: 991px){
 		.col-md-6, .col-md-12{
 			float:left;
-
 					
 		}
 		.col-md-6{
