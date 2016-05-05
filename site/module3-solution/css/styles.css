@@ -61,11 +61,6 @@ body{
 
 /* Home Page*/
 
-.container .jumbotron{
-	box-shadow: 0px 0px 50px #ff8566;
-	border: 3px solid #ff8566;
-
-}
 
 #main-content h2{	
 	font-size: 1.9em;
@@ -73,10 +68,9 @@ body{
 }
 
 .row{
-	background-color: #99b3ff;
+	background-color: #ff8566;
 	border: 1px solid #ff8566;
-	margin-right: 10px;
-	margin-left: 10px;
+	margin: 0 10px 20px;
 }
 
 
