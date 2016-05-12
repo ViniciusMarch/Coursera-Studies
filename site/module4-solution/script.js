@@ -39,7 +39,7 @@ var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula"
 
   window.names = names;
 
-})(window);
+
 
 
 // STEP 10:
@@ -68,3 +68,6 @@ for (var i = 0; i < names.length; i++) {
     helloSpeaker.speak(names[i]);
   }
 }
+
+
+})(window);
